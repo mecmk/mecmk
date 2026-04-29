@@ -1,7 +1,6 @@
-# hey, i'm matthew 👋
+# Hey, I'm Matthew 👋
 
-software + ai engineer | year 2 @ smu information systems
-
+Aspiring software + ai engineer | Undergraduate @ SMU IS
 ---
 
 ### languages
@@ -45,8 +44,8 @@ software + ai engineer | year 2 @ smu information systems
 ### currently
 
 - swe intern @ cinch
+- data analyst @ johnsons controls
 - head of partnerships @ youthtech sg
-- nlp/llm intern @ synapxe (upcoming)
 
 ---
 
@@ -54,7 +53,7 @@ software + ai engineer | year 2 @ smu information systems
 
 - **pricing engine** -- scraping + data pipelines, 2000+ skus, ~90% manual effort cut
 - **mcp server + n8n slack bot** -- natural language queries over live business data
-- **bidly** -- microservices auction platform on k8s/gke w/ stripe + websockets
+- **bidly** -- microservices pattern auction platform on k8s/gke w/ stripe + websockets + twilio
 - **smuxchange** -- full-stack uni exchange course mapper
 
 ---
