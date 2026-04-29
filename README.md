@@ -1,7 +1,6 @@
 # Hey, I'm Matthew 👋
-
-Aspiring software + ai engineer | Undergraduate @ SMU IS
 ---
+I'm a Year 2 Information Systems student at SMU with a passion for building backend systems and AI tooling. I like working across the full stack -- from microservices and cloud infra to LLM-powered apps. Currently interning at Cinch and leading partnerships at YouthTech SG, Singapore's largest youth-led tech charity.
 
 ### languages
 
