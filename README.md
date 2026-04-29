@@ -39,21 +39,4 @@ I'm an undergraduate at SMU IS, majoring in product development and business ana
 
 ---
 
-### Experience
-
-- SWE Intern @ Cinch
-- Data analyst @ Johnsons Controls
-- Head Of Partnerships @ YouthTechSG
-
----
-
-### Things I've shipped
-
-- **pricing engine** -- scraping + data pipelines, 2000+ skus, ~90% manual effort cut
-- **mcp server + n8n slack bot** -- natural language queries over live business data
-- **bidly** -- microservices pattern auction platform on k8s/gke w/ stripe + websockets + twilio
-- **smuxchange** -- full-stack uni exchange course mapper
-
----
-
 Singapore | [matthewwebsite.vercel.app](https://matthewwebsite.vercel.app/) | [linkedin](https://www.linkedin.com/in/mecmk)
